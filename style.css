@@ -1,0 +1,243 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0 50px;
+}
+
+.home{
+    width: 100%;
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+.home img.hdr {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 900px;
+}
+.shadow{
+    width: 93.5vw;
+    height: 900px;
+    top: 0px;
+    left: 50px;
+    position: absolute;
+    background-color: rgba(5, 5, 5, 0.35);
+    display:flex;
+    justify-content: center;
+}
+.shadow span{
+    font-size: 7em;
+    width: 600px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 200px;
+    color: #FFFFFF;
+}
+.cards{
+    display: flex;
+}
+.cardcontainer{
+    overflow: hidden;
+    cursor: pointer;
+    width: 350px;
+    height: 500px;
+    margin: 50px 7px;
+    position: relative;
+}
+.crd{
+    width: 350px;
+    height: 500px;
+    transition: .5s;
+}
+.cardcontainer:hover img{
+    transform: scale(1.2);}
+
+.cardshdaow{
+    width: 350px;
+    height: 500px;
+    background-color: rgba(40, 40, 40, 0.55);
+    position: absolute;
+    top: 0;
+    left: 0;
+    visibility: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cardcontainer:hover .cardshdaow{
+    visibility: visible;
+}
+.cardtext{
+    font-size: 1.2rem;
+    color: #E8E8EC;
+}
+.cardcontainer:hover .tracking-in-contract {
+    animation: tracking-in-contract 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}
+
+@keyframes tracking-in-contract {
+    0% {
+        letter-spacing: 1em;
+        opacity: 0;
+    }
+    40% {
+        opacity: 0.6;
+    }
+    100% {
+        letter-spacing: normal;
+        opacity: 1;
+    }
+}
+
+#arrival{
+    font-size: 4em;
+}
+
+.BlogCards{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.blog{
+    margin: 15px 15px;
+    width: 20%;
+    min-width: 250px;
+    height: 400px;
+    padding: 10px 12px;
+    border: 1px solid #E8E8EC;
+    cursor: pointer;
+    box-shadow: 20px 20px 30px rgba(0,0,0,0.02);
+    transition: 0.2s ease;
+    border-radius: 25px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+
+
+}
+.blg{
+    width: 100%;
+    border-radius: 25px;
+}
+.blog:hover [class^="bloginfo"]{
+    top: 300px;
+}
+[class^="bloginfo"]{
+    width: 100%;
+    height: 100px;
+    background-color: rgba(159, 120, 255, 0.54);
+    position: absolute;
+    top: 400px;
+    left: 0;
+    transition: 1s;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 20px;
+
+}
+.blgprice{
+    margin: 5px 0;
+}
+.bag-shopping{
+    position: absolute;
+    top: 20px;
+    left: 83%;
+    border-radius: 50%;
+    border: 1px solid #E8E8EC;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    transition: .5s;
+}
+.bag-shopping:hover{
+    color: #9F78FF;
+}
+
+ .bubble {
+     position: absolute;
+     background: rgba(159, 120, 255, 0.49);
+     color: #FFFFFF;
+     font-size: 10px;
+     line-height: 31px;
+     text-align: center;
+     width: 81px;
+     height: 31px;
+     border-radius: 10px;
+     padding: 0px;
+     top: 22px;
+     left: 50%;
+     transition: .5s;
+     opacity: 0;
+ }
+.bubble:after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 0;
+    z-index: 1;
+    border-style: solid;
+    border-color: transparent rgba(159, 120, 255, 0.49);
+    border-width: 7px 0 7px 8px;
+    top: 50%;
+    right: -8px;
+    margin-top: -6.7px;
+}
+.blog:hover .bubble{
+    opacity: 1;
+}
+
+.features{
+    width: 100%;
+    height: 450px;
+    margin: 50px 0;
+    background-color: #F7F7FD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ftr{
+    width: 300px;
+    height: 150px;
+    margin: 0 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+.ftr img{
+    width: 70px;
+    height: 45px;
+}
+.ftr span{
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+.fa-star{
+    color: #f8cd40;
+}

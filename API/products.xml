@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clothes>
+
+    <product id="0101">
+        <title>High Waist Pleated Trousers</title>
+        <price>30.00$</price>
+        <rating>4</rating>
+        <category>men</category>
+        <type>trousers</type>
+    </product>
+
+    <product id="0102">
+        <title>Colorful Plaid Lapel Shirts</title>
+        <price>32.07$</price>
+        <rating>5</rating>
+        <category>men</category>
+        <type>shirt</type>
+    </product>
+
+    <product id="0103">
+        <title>Rolled Sleeve Basic T-shirt</title>
+        <price>24.00$</price>
+        <rating>2</rating>
+        <category>men</category>
+        <type>t-shirt</type>
+    </product>
+
+    <product id="0104">
+        <title>Baseball Collar Warm Jacket</title>
+        <price>50.00$</price>
+        <rating>3</rating>
+        <category>men</category>
+        <type>jacket</type>
+    </product>
+
+    <product id="0105">
+        <title>High Waist Pleated Trousers</title>
+        <price>300.00$</price>
+        <rating>5</rating>
+        <category>men</category>
+        <type>trousers</type>
+    </product>
+
+    <product id="0106">
+        <title>Basic T-shirt</title>
+        <price>450.00$</price>
+        <rating>5</rating>
+        <category>men</category>
+        <type>t-shirt</type>
+    </product>
+
+    <product id="0107">
+        <title>Colorful Plaid Long Shirts</title>
+        <price>14.00$</price>
+        <rating>2</rating>
+        <category>men</category>
+        <type>shirt</type>
+    </product>
+
+    <product id="0108">
+        <title>Letter Print Warm Jacket</title>
+        <price>45.00$</price>
+        <rating>4</rating>
+        <category>men</category>
+        <type>jacket</type>
+    </product>
+
+    <product id="0109">
+        <title>Pocket Fold Pleated Trousers</title>
+        <price>100.00$</price>
+        <rating>3</rating>
+        <category>women</category>
+        <type>trousers</type>
+    </product>
+
+    <product id="0110">
+        <title>White Basic T-shirt</title>
+        <price>410.00$</price>
+        <rating>3</rating>
+        <category>women</category>
+        <type>t-shirt</type>
+    </product>
+
+    <product id="0111">
+        <title>Long Sleeve Lapel Shirts</title>
+        <price>30.00$</price>
+        <rating>1</rating>
+        <category>women</category>
+        <type>shirt</type>
+    </product>
+
+    <product id="0112">
+        <title>Scarlet Darkness Women Skirt</title>
+        <price>320.00$</price>
+        <rating>5</rating>
+        <category>women</category>
+        <type>skirt</type>
+    </product>
+
+    <product id="0113">
+        <title>Scarlet Darkness Vintage Skirt</title>
+        <price>60.00$</price>
+        <rating>4</rating>
+        <category>women</category>
+        <type>skirt</type>
+    </product>
+
+    <product id="0114">
+        <title>Gothic Paneled Solid Dress</title>
+        <price>305.00$</price>
+        <rating>2</rating>
+        <category>women</category>
+        <type>dress</type>
+    </product>
+
+    <product id="0115">
+        <title>White Rolled T-shirt</title>
+        <price>740.00$</price>
+        <rating>5</rating>
+        <category>women</category>
+        <type>t-shirt</type>
+    </product>
+
+    <product id="0116">
+        <title>Gothic Dark Vintage Dress</title>
+        <price>65.00$</price>
+        <rating>5</rating>
+        <category>women</category>
+        <type>dress</type>
+    </product>
+
+    <product id="0117">
+        <title>Vintage Sleeve Dress</title>
+        <price>74.00$</price>
+        <rating>5</rating>
+        <category>women</category>
+        <type>dress</type>
+    </product>
+
+    <product id="0118">
+        <title>Creative Multicolored Shirt</title>
+        <price>233.00$</price>
+        <rating>2</rating>
+        <category>women</category>
+        <type>shirt</type>
+    </product>
+
+    <product id="0119">
+        <title>Multi Pocket Cargo Pants</title>
+        <price>40.00$</price>
+        <rating>5</rating>
+        <category>women</category>
+        <type>trousers</type>
+    </product>
+
+    <product id="0120">
+        <title>Women's Basic Versatile Skirt</title>
+        <price>30.00$</price>
+        <rating>3</rating>
+        <category>women</category>
+        <type>skirt</type>
+    </product>
+
+    <product id="0121">
+        <title>Rolex Datejust Diamond Watch</title>
+        <price>355.00$</price>
+        <rating>5</rating>
+        <category>watch</category>
+        <type>rolex</type>
+    </product>
+
+    <product id="0122">
+        <title>Rolex Dial Mens Watch</title>
+        <price>30.00$</price>
+        <rating>4</rating>
+        <category>watch</category>
+        <type>rolex</type>
+    </product>
+
+    <product id="0123">
+        <title>CASIO Silver Digital Watch</title>
+        <price>78.00$</price>
+        <rating>5</rating>
+        <category>watch</category>
+        <type>Casio</type>
+    </product>
+
+    <product id="0124">
+        <title>Casio Mes's Wrist Watch</title>
+        <price>98.00$</price>
+        <rating>5</rating>
+        <category>watch</category>
+        <type>Casio</type>
+    </product>
+
+    <product id="0125">
+        <title>Seiko Watch Essentials Watch</title>
+        <price>350.00$</price>
+        <rating>5</rating>
+        <category>watch</category>
+        <type>Seiko</type>
+    </product>
+
+    <product id="0126">
+        <title>Seiko Women's Strap Watch</title>
+        <price>340.00$</price>
+        <rating>4</rating>
+        <category>watch</category>
+        <type>Seiko</type>
+    </product>
+
+    <product id="0127">
+        <title>Tissot Le Locle Watch</title>
+        <price>56.00$</price>
+        <rating>3</rating>
+        <category>watch</category>
+        <type>Tissot</type>
+    </product>
+
+    <product id="0128">
+        <title>Tissot Classic Dream Watch</title>
+        <price>30.00$</price>
+        <rating>5</rating>
+        <category>watch</category>
+        <type>Tissot</type>
+    </product>
+
+    <product id="0129">
+        <title>Sun Block-heel Pumps</title>
+        <price>30.00$</price>
+        <rating>4</rating>
+        <category>shoes</category>
+        <type>high-heels</type>
+    </product>
+
+    <product id="0130">
+        <title>LC Women's High Heels</title>
+        <price>350.00$</price>
+        <rating>3</rating>
+        <category>shoes</category>
+        <type>high-heels</type>
+    </product>
+
+    <product id="0131">
+        <title>madden Stacked Heel Boots</title>
+        <price>74.00$</price>
+        <rating>5</rating>
+        <category>shoes</category>
+        <type>boots</type>
+    </product>
+
+    <product id="0132">
+        <title>sugar Warrant Ankle Boots</title>
+        <price>72.00$</price>
+        <rating>4</rating>
+        <category>shoes</category>
+        <type>boots</type>
+    </product>
+
+    <product id="0133">
+        <title>Unisa Womens Block Heel</title>
+        <price>225.00$</price>
+        <rating>2</rating>
+        <category>shoes</category>
+        <type>boots</type>
+    </product>
+
+    <product id="0134">
+        <title>Vans Sk8 Hi MTE-1 Skate Shoe</title>
+        <price>244.00$</price>
+        <rating>4</rating>
+        <category>shoes</category>
+        <type>sneakers</type>
+    </product>
+
+    <product id="0135">
+        <title>Vans High-Top Shoes</title>
+        <price>520.00$</price>
+        <rating>5</rating>
+        <category>shoes</category>
+        <type>sneakers</type>
+    </product>
+
+
+</clothes>

@@ -1,0 +1,251 @@
+{
+  "clothes": {
+    "product": [
+      {
+        "title": "High Waist Slant Pocket Fold Pleated Trousers",
+        "price": "30.00$",
+        "rating": 4,
+        "category": "men",
+        "type": "trousers"
+      },
+      {
+        "title": "Colorful Plaid Chest Pocket Long Sleeve Lapel Shirts",
+        "price": "32.07$",
+        "rating": 5,
+        "category": "men",
+        "type": "shirt"
+      },
+      {
+        "title": "Rolled Sleeve Basic T-shirt",
+        "price": "24.00$",
+        "rating": 2,
+        "category": "men",
+        "type": "t-shirt"
+      },
+      {
+        "title": "Baseball Collar Warm Jacket",
+        "price": "50.00$",
+        "rating": 3,
+        "category": "men",
+        "type": "jacket"
+      },
+      {
+        "title": "High Waist Pleated Trousers",
+        "price": "300.00$",
+        "rating": 5,
+        "category": "men",
+        "type": "trousers"
+      },
+      {
+        "title": "Basic T-shirt",
+        "price": "450.00$",
+        "rating": 5,
+        "category": "men",
+        "type": "t-shirt"
+      },
+      {
+        "title": "Colorful Plaid Long Sleeve Lapel Shirts",
+        "price": "14.00$",
+        "rating": 2,
+        "category": "men",
+        "type": "shirt"
+      },
+      {
+        "title": "Letter Print Warm Jacket",
+        "price": "45.00$",
+        "rating": 4,
+        "category": "men",
+        "type": "jacket"
+      },
+      {
+        "title": "Pocket Fold Pleated Trousers",
+        "price": "100.00$",
+        "rating": 3,
+        "category": "women",
+        "type": "trousers"
+      },
+      {
+        "title": "White Basic T-shirt",
+        "price": "410.00$",
+        "rating": 3,
+        "category": "women",
+        "type": "t-shirt"
+      },
+      {
+        "title": "Long Sleeve Lapel Shirts",
+        "price": "30.00$",
+        "rating": 1,
+        "category": "women",
+        "type": "shirt"
+      },
+      {
+        "title": "Scarlet Darkness Women Skirt",
+        "price": "320.00$",
+        "rating": 5,
+        "category": "women",
+        "type": "skirt"
+      },
+      {
+        "title": "Scarlet Darkness Vintage Skirt",
+        "price": "60.00$",
+        "rating": 4,
+        "category": "women",
+        "type": "skirt"
+      },
+      {
+        "title": "Gothic Dark Vintage Cutout Bell Sleeve Paneled Solid Dress",
+        "price": "305.00$",
+        "rating": 2,
+        "category": "women",
+        "type": "dress"
+      },
+      {
+        "title": "White Rolled Sleeve Basic T-shirt",
+        "price": "740.00$",
+        "rating": 5,
+        "category": "women",
+        "type": "t-shirt"
+      },
+      {
+        "title": "Gothic Dark Vintage Dress",
+        "price": "65.00$",
+        "rating": 5,
+        "category": "women",
+        "type": "dress"
+      },
+      {
+        "title": "Vintage Sleeve Paneled Solid Dress",
+        "price": "74.00$",
+        "rating": 5,
+        "category": "women",
+        "type": "dress"
+      },
+      {
+        "title": "Creative Multicolored Shirt",
+        "price": "233.00$",
+        "rating": 2,
+        "category": "women",
+        "type": "shirt"
+      },
+      {
+        "title": "Multi Pocket Cargo Pants",
+        "price": "40.00$",
+        "rating": 5,
+        "category": "women",
+        "type": "trousers"
+      },
+      {
+        "title": "Women's Basic Versatile Stretchy Flared Casual Mini Skater Skirt",
+        "price": "30.00$",
+        "rating": 3,
+        "category": "women",
+        "type": "skirt"
+      },
+      {
+        "title": "Rolex Datejust Diamond Watch",
+        "price": "355.00$",
+        "rating": 5,
+        "category": "watch",
+        "type": "rolex"
+      },
+      {
+        "title": "Rolex Datejust Steel White Gold Diamond Dial Mens Watch",
+        "price": "30.00$",
+        "rating": 4,
+        "category": "watch",
+        "type": "rolex"
+      },
+      {
+        "title": "CASIO Waterproof Mens Womens Silver Digital Watch",
+        "price": "78.00$",
+        "rating": 5,
+        "category": "watch",
+        "type": "Casio"
+      },
+      {
+        "title": "Casio Mes's Wrist Watch",
+        "price": "98.00$",
+        "rating": 5,
+        "category": "watch",
+        "type": "Casio"
+      },
+      {
+        "title": "Seiko Watch Essentials Watch",
+        "price": "350.00$",
+        "rating": 5,
+        "category": "watch",
+        "type": "Seiko"
+      },
+      {
+        "title": "Seiko Women's Essentials Brown Leather Strap Watch",
+        "price": "340.00$",
+        "rating": 4,
+        "category": "watch",
+        "type": "Seiko"
+      },
+      {
+        "title": "Tissot Le Locle Watch",
+        "price": "56.00$",
+        "rating": 3,
+        "category": "watch",
+        "type": "Tissot"
+      },
+      {
+        "title": "Tissot Classic Dream Watch",
+        "price": "30.00$",
+        "rating": 5,
+        "category": "watch",
+        "type": "Tissot"
+      },
+      {
+        "title": "Sun - Stone Womens Estrella Block-heel Pumps",
+        "price": "30.00$",
+        "rating": 4,
+        "category": "shoes",
+        "type": "high-heels"
+      },
+      {
+        "title": "LC Lauren Conrad Hydrangea Women's High Heels",
+        "price": "350.00$",
+        "rating": 3,
+        "category": "shoes",
+        "type": "high-heels"
+      },
+      {
+        "title": "madden girl Kayden Women's Stacked Heel Boots",
+        "price": "74.00$",
+        "rating": 5,
+        "category": "shoes",
+        "type": "boots"
+      },
+      {
+        "title": "sugar Warrant Women's Block Heel Ankle Boots",
+        "price": "72.00$",
+        "rating": 4,
+        "category": "shoes",
+        "type": "boots"
+      },
+      {
+        "title": "Unisa Womens Unxaviana Block Heel Booties",
+        "price": "225.00$",
+        "rating": 2,
+        "category": "shoes",
+        "type": "boots"
+      },
+      {
+        "title": "Vans Sk8 Hi MTE-1 Skate Shoe",
+        "price": "244.00$",
+        "rating": 4,
+        "category": "shoes",
+        "type": "sneakers"
+      },
+      {
+        "title": "Vans Filmore Platform Women's High-Top Shoes",
+        "price": "520.00$",
+        "rating": 5,
+        "category": "shoes",
+        "type": "sneakers"
+      }
+    ]
+  }
+}

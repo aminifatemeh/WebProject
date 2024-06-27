@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 50px;
+}
+.pageBanner{
+    width: 100%;
+    height: 370px;
+    background: linear-gradient(to bottom, rgba(40, 40, 40, 0.29), rgba(45, 45, 45, 0.55)), url("images/Banner.png") center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pageBanner h1{
+    color: #E8E8EC;
+    margin-top: 100px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.ProductCardContainer{
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 1px solid #c1c1c4;
+}
+
+.Pcard{
+    margin: 15px 15px;
+    width: 20%;
+    min-width: 250px;
+    height: 350px;
+    padding: 10px 12px;
+    border: 1px solid #c1c1c4;
+    cursor: pointer;
+    box-shadow: 20px 20px 30px rgba(0,0,0,0.02);
+    transition: 0.2s ease;
+    border-radius: 25px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+[class^="Pimg"]{
+    width: 100%;
+    border-radius: 25px;
+}
+.Pcard:hover .Pshadow{
+    opacity: 1;
+}
+.Pshadow{
+    width: 100%;
+    height: 350px;
+    background-color: rgba(49, 49, 49, 0.78);
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 20px;
+    opacity: 0;
+}
+.Pinfo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Pinfo span, .Pstar{
+    margin: 5px 0;
+    color: #E8E8EC;
+}
+.Pshadow:hover .slide-top {
+    -webkit-animation: slide-top 0.3s linear both;
+    animation: slide-top 0.3s linear both;
+}
+
+@keyframes slide-top {
+    0% {
+        transform: translateY(60px);
+    }
+    100% {
+        transform: translateY(10px);
+    }
+}
+.fa-star{
+    color: #f8cd40;
+}
+.button-74 {
+    background-color: #fbeee0;
+    border: 2px solid #422800;
+    border-radius: 30px;
+    box-shadow: #422800 4px 4px 0 0;
+    color: #422800;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 40px;
+    line-height: 50px;
+    text-align: left;
+    text-decoration: none;
+    user-select: none;
+    touch-action: manipulation;
+    margin: 15px 0;
+
+
+}
+
+.button-74:hover {
+    background-color: #fff;
+}
+
+.button-74:active {
+    box-shadow: #422800 2px 2px 0 0;
+    transform: translate(2px, 2px);
+}
+
